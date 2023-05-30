@@ -141,3 +141,8 @@ dmypy.json
 .pyre/
 
 .idea
+demo/bert
+demo/output
+demo/wandb
+demo/*.csv
+runs
